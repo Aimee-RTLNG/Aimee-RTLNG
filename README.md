@@ -12,10 +12,9 @@
 👀 En route pour un Mastère en développement web
 
 
-💬 Français, Anglais, un peu d'Allemand, un peu de Mandarin 
+💬 Français, English, ein wenig Deutsch, 还我会一点儿中文 [Follow me on Duolingo](https://www.duolingo.com/profile/Aimee_CHN "Duolingo profile") !
 
 
-
-🖱 https://aimee-ritleng.fr/
+🖱 Portofolio en ligne : https://aimee-ritleng.fr/
 
 ![](https://komarev.com/ghpvc/?username=Aimee-RTLNG)
