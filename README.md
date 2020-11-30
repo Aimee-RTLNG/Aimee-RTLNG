@@ -8,7 +8,7 @@
 [Follow me on Duolingo](https://www.duolingo.com/profile/Aimee_CHN "Duolingo profile") !
 
 
-🖱 Vous pouvez consulter mon CV interactif içi : https://aimee-ritleng.fr/ (il y a des secrets cachés 😉)
+🖱 Vous pouvez consulter mon CV interactif : https://aimee-ritleng.fr/ (il y a des secrets cachés 😉)
 
 ---
 
