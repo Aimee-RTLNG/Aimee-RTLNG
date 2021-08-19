@@ -13,11 +13,12 @@
 ---
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Aimee-RTLNG&show_icons=true&theme=default">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Aimee-RTLNG&show_icons=true&theme=default" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  alt="" align="left" src="https://github-readme-stats.vercel.app/api?username=Aimee-RTLNG&show_icons=true&theme=radical&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Aimee-RTLNG&&theme=default">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Aimee-RTLNG&hide=blade&theme=default" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  alt="" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimee-RTLNG&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 </div>
 
