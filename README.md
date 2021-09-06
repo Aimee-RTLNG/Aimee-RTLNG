@@ -25,6 +25,6 @@
 
 <div>
 <a href="https://app.daily.dev/Aimee"><img src="https://api.daily.dev/devcards/0df103647e0d4802908a31d6972f4709.png?r=mrf" width="400" alt=""/></a>
-<div>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=Aimee-RTLNG)
