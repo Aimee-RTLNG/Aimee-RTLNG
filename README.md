@@ -21,8 +21,10 @@
   <img  alt="" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimee-RTLNG&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
   
-<a href="https://app.daily.dev/Aimee"><img src="https://api.daily.dev/devcards/0df103647e0d4802908a31d6972f4709.png?r=mrf" width="400" alt=""/></a>
-  
 </div>
+
+<div>
+<a href="https://app.daily.dev/Aimee"><img src="https://api.daily.dev/devcards/0df103647e0d4802908a31d6972f4709.png?r=mrf" width="400" alt=""/></a>
+<div>
 
 ![](https://komarev.com/ghpvc/?username=Aimee-RTLNG)
