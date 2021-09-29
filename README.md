@@ -1,12 +1,8 @@
 ### Bonjour 👋
 
-🦒 Je suis étudiante en Mastère en développement web à YNOV Lyon
-
-🌱 Originaire de Strasbourg, je vis actuellement à Lyon
+🦒 Je suis étudiante en Mastère en développement web
 
 💬 Je parle Français, English, ein wenig Deutsch, 还我会一点儿中文 
-[Follow me on Duolingo](https://www.duolingo.com/profile/Aimee_CHN "Duolingo profile") !
-
 
 🖱 Vous pouvez consulter mon CV interactif : https://aimee-ritleng.fr/ (il y a des secrets cachés 😉)
 
