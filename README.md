@@ -3,19 +3,15 @@
 
 <a href="https://app.daily.dev/Aimee"><img align="right" src="https://api.daily.dev/devcards/0df103647e0d4802908a31d6972f4709.png?r=mrf" width="200" alt=""/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimee-ritleng-webdev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12410279)
-〰️
-![](https://komarev.com/ghpvc/?username=Aimee-RTLNG&label=%20Profile%20Views&color=blue&style=for-the-badge)
-[![Profile last updated](https://img.shields.io/github/last-commit/Aimee-RTLNG/Aimee-RTLNG/main?label=Last%20updated&style=for-the-badge)](https://github.com/samujjwaal/samujjwaal/commits)
-
-- 💻 I am a web developer, focused on UX and design.
-- 🚲 I work at [Cyclable](https://www.cyclable.com/), french bikes and accessories retailer
-- 👨‍🏫 Currently studying in Lyon, France at [YNOV](https://www.ynov.com/)
-- 📖 I also love to learn stuff. I'm currently learning [Chinese](https://www.duolingo.com/profile/Aimee_CHN) and to play piano.
+- 💻 I am a web developer, focused on UX and web design, working at [Cyclable](https://www.cyclable.com/)
+- 📖 Currently studying in Lyon, France at [YNOV](https://www.ynov.com/)
 - 🌐 You can check my website here : https://aimee-ritleng.fr/ (there may be easter eggs 😉)
-- 🥰 Slowly developing an addiction to Vue.js 
 
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimee-ritleng-webdev)
+![](https://komarev.com/ghpvc/?username=Aimee-RTLNG&label=%20Profile%20Views&color=blue&style=for-the-badge)
+[![Profile last updated](https://img.shields.io/github/last-commit/Aimee-RTLNG/Aimee-RTLNG/main?label=Last%20updated&style=for-the-badge)](https://github.com/samujjwaal/samujjwaal/commits)
 
 ## 💻 Tech Stack
 
@@ -37,6 +33,4 @@
 <a href="https://github.com/Aimee-RTLNG/Aimee-RTLNG">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aimee-RTLNG&theme=gotham&hide_border=true" />
 </a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimee-RTLNG&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
