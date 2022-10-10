@@ -4,8 +4,7 @@
 <a href="https://app.daily.dev/Aimee"><img align="right" src="https://api.daily.dev/devcards/0df103647e0d4802908a31d6972f4709.png?r=mrf" width="200" alt=""/></a>
 
 - 💻 I am a web developer, focused on UX and web design, working at [Cyclable](https://www.cyclable.com/)
-- 📖 Currently studying in Lyon, France at [YNOV](https://www.ynov.com/)
-- 🌐 You can check my website here : https://aimee-ritleng.fr/ (there may be easter eggs 😉)
+- 🌐 You can check my website here : www.aimee-ritleng.fr (redesign in progress)
 
 <br/>
 
