@@ -3,8 +3,8 @@
 
 <a href="https://app.daily.dev/Aimee"><img align="right" src="https://api.daily.dev/devcards/0df103647e0d4802908a31d6972f4709.png?r=mrf" width="200" alt=""/></a>
 
-- 💻 I am a web developer, focused on UX and web design, working at [Cyclable](https://www.cyclable.com/)
-- 🌐 You can check my website here : www.aimee-ritleng.fr (redesign in progress)
+💻 I am a web developer, focused on UX and web design, working at [Cyclable](https://www.cyclable.com/)
+🌐 You can check my website here : www.aimee-ritleng.fr (redesign in progress)
 
 <br/>
 
