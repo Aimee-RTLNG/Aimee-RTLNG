@@ -9,7 +9,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimee-ritleng-webdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimee-ritleng)
 ![](https://komarev.com/ghpvc/?username=Aimee-RTLNG&label=%20Profile%20Views&color=blue&style=for-the-badge)
 [![Profile last updated](https://img.shields.io/github/last-commit/Aimee-RTLNG/Aimee-RTLNG/main?label=Last%20updated&style=for-the-badge)](https://github.com/samujjwaal/samujjwaal/commits)
 
