@@ -28,9 +28,6 @@
 ## 📊 Stats
 
 <a href="https://github.com/Aimee-RTLNG/Aimee-RTLNG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aimee-RTLNG&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/Aimee-RTLNG/Aimee-RTLNG">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aimee-RTLNG&theme=gotham&hide_border=true" />
 </a>
 
