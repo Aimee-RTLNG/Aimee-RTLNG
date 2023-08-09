@@ -22,12 +22,3 @@
 **Back** : ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=Heroku&logoColor=white) ![Heroku](https://img.shields.io/badge/Netlify-%23430098.svg?style=flat-square&logo=netlify&logoColor=white)
 
 **Others** : ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-
-<br/>
-
-## 📊 Stats
-
-<a href="https://github.com/Aimee-RTLNG/Aimee-RTLNG">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aimee-RTLNG&theme=gotham&hide_border=true" />
-</a>
-
